@@ -1,0 +1,8 @@
+F:\OMCB\SwitchBWUtilization\BWUtilization\BWUtilization\bin\Debug\BWUtilization.exe
+F:\OMCB\SwitchBWUtilization\BWUtilization\BWUtilization\bin\Debug\BWUtilization.pdb
+F:\OMCB\SwitchBWUtilization\BWUtilization\BWUtilization\bin\Debug\EPPlus.dll
+F:\OMCB\SwitchBWUtilization\BWUtilization\BWUtilization\obj\Debug\BWUtilization.csprojResolveAssemblyReference.cache
+F:\OMCB\SwitchBWUtilization\BWUtilization\BWUtilization\obj\Debug\Interop.Shell32.dll
+F:\OMCB\SwitchBWUtilization\BWUtilization\BWUtilization\obj\Debug\BWUtilization.csproj.ResolveComReference.cache
+F:\OMCB\SwitchBWUtilization\BWUtilization\BWUtilization\obj\Debug\BWUtilization.exe
+F:\OMCB\SwitchBWUtilization\BWUtilization\BWUtilization\obj\Debug\BWUtilization.pdb
